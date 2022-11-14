@@ -12,6 +12,6 @@ Companies get insights about customers and can create well-informed marketing st
 
 In short, it helps focus on the long term profitability of business rather than short term gain so that both business and customers reap benefits.
 
-Source
+[Source](https://www.surveysensum.com/customer-experience/customer-lifetime-value/)
 
 In this project, We are going to build some machine learning models that predicts our customers lifetime value.

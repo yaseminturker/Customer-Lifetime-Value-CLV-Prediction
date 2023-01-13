@@ -1,4 +1,4 @@
-# Customer-Lifetime-Value-CLV-Prediction
+# Predicting Customer Lifetime Value through Machine Learning: A Study in Optimizing Long-Term Business Profitability
 
 ![image](https://user-images.githubusercontent.com/106876801/201621434-5e537e09-d75d-4cc2-bf5c-1a0df683d826.png)
 
